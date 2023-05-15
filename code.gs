@@ -1,3 +1,5 @@
+//Created by AdirBartov.com with ChatGPT
+
 function removeChosenOptions(e) {
   var formId = "YOUR_FORM_ID"; // Replace with your Google Form ID
   var response = e.response;
